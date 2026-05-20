@@ -113,4 +113,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Hi there! I'm Abdulkarim Khaled, a dedicated and detail-oriented Data Analyst. I have a strong passion for transforming raw data into meaningful insights that drive smart business decisions. Through this project, I have demonstrated my technical skills in database design, data warehousing, and writing optimized SQL queries to manipulate and analyze complex datasets. My goal is to make data clear, actionable, and valuable for any organization.
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
+[![LinkedIn](https://shields.io)](https:www.linkedin.com/in/abdulkarem-bawazir-917117255)
+
 
