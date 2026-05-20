@@ -114,5 +114,7 @@ Hi there! I'm Abdulkarim Khaled, a dedicated and detail-oriented Data Analyst. I
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 [![LinkedIn](https://shields.io)](https:www.linkedin.com/in/abdulkarem-bawazir-917117255)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+
 
 
